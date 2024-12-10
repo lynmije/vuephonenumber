@@ -9,11 +9,8 @@
     "moduleResolution": "node",
     "declaration": true,
     "outDir": "dist",
-    "esModuleInterop": true,
-    "allowJs": true,
-    "jsx": "preserve"
+    "esModuleInterop": true
   },
-  "include": ["**/*"],
   "exclude": [
     "node_modules",
     "dist"

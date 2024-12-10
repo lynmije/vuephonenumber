@@ -10,20 +10,6 @@
 
 > A beautiful text field to format phone numbers made with VueJS
 
----
-
-## ⚠️ This plugin is unmaintained ⚠️
-
-### Version for Vue 2 on [maz-ui v2.x](https://louismazel.github.io/maz-ui)
-
-The version for **Vue 2** is available here: **[maz-ui v2.x - MazPhoneNumberInput](https://louismazel.github.io/maz-ui/documentation/maz-phone-number-input)**
-
-### New version for Vue 3 on [maz-ui v3.x](https://maz-ui.com)
-
-The version for **Vue 3** is available here: **[maz-ui v3.x - MazPhoneNumberInput](https://maz-ui.com/components/maz-phone-number-input.html)**
-
----
-
 ![vue-phone-number-input](./public/vue-phone-number-input-demo.gif)
 
 ## Demo
